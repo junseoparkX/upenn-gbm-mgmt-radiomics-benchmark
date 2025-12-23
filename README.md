@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # upenn-gbm-mgmt-radiomics-benchmark
 =======
+=======
+>>>>>>> 61b6581 (Update: feature selection + train/test export)
 # UPENN-GBM MGMT Prediction (Segmentation-based Radiomics) — Reproduction & Comparison
 
 ## Goal
@@ -107,4 +110,7 @@ For each (Sequence, Area), we will report:
 ## Notes on naming (NET / NC)
 Some files may use names like `NC` for necrosis / non-enhancing core.
 We treat this as the paper’s **NET** region for comparison, but we keep the raw filename tag in our logs for clarity.
+<<<<<<< HEAD
+>>>>>>> 61b6581 (Update: feature selection + train/test export)
+=======
 >>>>>>> 61b6581 (Update: feature selection + train/test export)
